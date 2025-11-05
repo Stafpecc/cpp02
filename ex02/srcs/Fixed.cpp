@@ -1,4 +1,4 @@
-#include "../includes/Fixed.hpp"
+#include "Fixed.hpp"
 #include <iostream>
 #include <math.h>
 
